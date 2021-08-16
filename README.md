@@ -3,6 +3,7 @@ Anyway, I've done what I can & it's now ready for many eye-balls.
 
 Phill
 
+
 ### 2021-02-23
 I have not made & tested this design but it is barely changed from the manufacrurers data sheets or other designs.
 If you make & test it then please advise.
@@ -25,8 +26,8 @@ Shift DIP, chip & hidden cap slightly right.
 Shift left 6 components slightly right.
 Re-route left 6 components to avoid side swapping.
 Ensure GND plane encircles everything with a via in each corner.
-Ensure all 'thin' traces are 0.20mm (up from 0.16)
 Tidy with some symetry.
+Ensure all 'thin' traces are 0.20mm (up from 0.16)
 
 ### 2021-08-16
 Move to it's own project to reflect that Speeduino main project has dropped all VRs.
