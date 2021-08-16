@@ -3,7 +3,6 @@ Anyway, I've done what I can & it's now ready for many eye-balls.
 
 Phill
 
-
 ### 2021-02-23
 I have not made & tested this design but it is barely changed from the manufacrurers data sheets or other designs.
 If you make & test it then please advise.
@@ -21,11 +20,11 @@ Updated BOM in schematic to reflect readily available parts found on OctoPart.
 Goal: give the left 6 passive components some space from the edge.
 Increace size/power of some SMT resistors where suggested.
 Re-route COUT1 from DIP.8 to SIL.4 in green so no signal traces are by the edge.
-Shift right 5 components slightly right
-Shift DIP, chip & hidden cap slightly right
-Shift left 6 components slightly right
-Re-route left 6 components to avoid side swapping, keeping the larger SMTs.
-Ensure GNG plane encircles everything with a via in each corner.
+Shift right 5 components slightly right.
+Shift DIP, chip & hidden cap slightly right.
+Shift left 6 components slightly right.
+Re-route left 6 components to avoid side swapping.
+Ensure GND plane encircles everything with a via in each corner.
 Ensure all 'thin' traces are 0.20mm (up from 0.16)
 Tidy with some symetry.
 
