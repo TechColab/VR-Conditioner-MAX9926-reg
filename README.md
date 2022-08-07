@@ -3,6 +3,8 @@ Anyway, I've done what I can & it's now ready for many eye-balls.
 
 Phill
 
+### 2022-08-07
+Added test-pads which can be used to solder directly when not using socket mount, E.g. when placing the VR conditioner as close as possible to the engine sensors in noisy environments. Improved ground plane shielding & much improved silk screen labelling. Tried to fit an official OpenSource Hardware logo but even the smallest is too big. Update to KiCAD v6.x so 3D renders now without components.  N.B. To be clear, this board is for VR only & does not support an opto-isolator option.
 
 ### 2021-02-23
 I have not made & tested this design but it is barely changed from the manufacrurers data sheets or other designs.
@@ -19,7 +21,7 @@ Updated BOM in schematic to reflect readily available parts found on OctoPart.
 
 ### 2021-04-22
 Goal: give the left 6 passive components some space from the edge.
-Increace size/power of some SMT resistors where suggested.
+Increase size/power of some SMT resistors where suggested.
 Re-route COUT1 from DIP.8 to SIL.4 in green so no signal traces are by the edge.
 Shift right 5 components slightly right.
 Shift DIP, chip & hidden cap slightly right.
