@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-0)*
-G04 #@! TF.CreationDate,2022-08-07T14:26:41+01:00*
+G04 #@! TF.CreationDate,2022-08-07T15:03:16+01:00*
 G04 #@! TF.ProjectId,VR-Conditioner-MAX9926+reg,56522d43-6f6e-4646-9974-696f6e65722d,3.72*
 G04 #@! TF.SameCoordinates,PX68c4118PY713e7a8*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-08-07 14:26:41*
+G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-08-07 15:03:16*
 %MOMM*%
 %LPD*%
 G01*
